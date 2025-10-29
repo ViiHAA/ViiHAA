@@ -38,7 +38,7 @@
 
 ![GitHub Contribution Grid](https://ghchart.rshah.org/0d9488/ViiHAA)
 
-[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=react-dark&hide_border=true)](https://github.com/ViiHAA)
+[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=blue-green&hide_border=true)](https://github.com/ViiHAA)
 
 </div>
 
