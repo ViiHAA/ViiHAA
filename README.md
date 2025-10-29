@@ -60,32 +60,19 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### 🎵 What I am currently listening to...
 
+<div align = "center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gfg09h6v7nu7kn2jyf95z2bpx&cover_image=true&theme=default&show_offline=true&background_color=240001&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=gfg09h6v7nu7kn2jyf95z2bpx&width=500&count=7)
+
+</div>
+  
+#### ⭐ From [ViiHAA](https://github.com/ViiHAA) 
+#### Contact me: [vwahudeniya@gmail.com](mailto:vwahundeniya@gmail.com)
+
+</div>
 <br>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-<div style="flex: 1; text-align: center;">
-
-### 🎵 Now Playing on Spotify
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gfg09h6v7nu7kn2jyf95z2bpx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=57c43c&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-<div style="flex: 1; text-align: center;">
-
-### 🎧 Recently Played
-
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=gfg09h6v7nu7kn2jyf95z2bpx&width=500)
-
-</div>
-</div>
-
-<br>
-
-**⭐ From [ViiHAA](https://github.com/ViiHAA) with ❤️**
-
-</div>
