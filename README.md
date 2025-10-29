@@ -5,6 +5,7 @@
 💻 Focused on MERN development, learning with every bug and commit.  
 🎮 Experimenting with game development because why limit chaos to just web apps?
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViiHAA&label=Profile%20views&color=0e75b6&style=flat" alt="ViiHAA" /> </p>
 ---
 
 ## 📊 GitHub Analytics
