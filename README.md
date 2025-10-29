@@ -41,7 +41,7 @@
 
 ![GitHub Contribution Grid](https://ghchart.rshah.org/0d9488/ViiHAA)
 
-[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=blue-green&hide_border=true)](https://github.com/ViiHAA)
+[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=monokai&hide_border=true)](https://github.com/ViiHAA)
 
 </div>
 
@@ -49,7 +49,7 @@
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=monokai&no-frame=false&no-bg=true&margin-w=5&row=1&column=8)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=monokai&no-frame=false&no-bg=true&margin-w=5&row=1&column=6)
 
 </div>
 
