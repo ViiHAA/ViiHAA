@@ -23,13 +23,13 @@
 
 ## 📊 GitHub Analytics
 
-<div align="flex">
+<div align="container">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViiHAA&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViiHAA&theme=juicyfresh&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ViiHAA&theme=blue-green&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ViiHAA&theme=juicyfreshn&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViiHAA&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViiHAA&theme=juicyfresh&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
@@ -39,9 +39,7 @@
 
 <div align="center">
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/0d9488/ViiHAA)
-
-[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=monokai&hide_border=true)](https://github.com/ViiHAA)
+[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=juicyfresh&hide_border=true)](https://github.com/ViiHAA)
 
 </div>
 
@@ -49,7 +47,7 @@
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=monokai&no-frame=false&no-bg=true&margin-w=5&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=5&row=1&column=6)
 
 </div>
 
