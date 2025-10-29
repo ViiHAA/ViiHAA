@@ -49,7 +49,7 @@
 
 ## 🏆 GitHub Achievements
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=blue-green&no-frame=false&no-bg=true&margin-w=5&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA-ma&theme=monokai)
 
 </div>
 
