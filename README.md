@@ -68,7 +68,6 @@
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gfg09h6v7nu7kn2jyf95z2bpx&cover_image=true&theme=default&show_offline=true&background_color=240001&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=gfg09h6v7nu7kn2jyf95z2bpx&width=500&count=7)
 
-</div>
   
 #### ⭐ From [ViiHAA](https://github.com/ViiHAA) 
 #### Contact me: [vwahudeniya@gmail.com](mailto:vwahundeniya@gmail.com)
