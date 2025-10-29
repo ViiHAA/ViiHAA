@@ -1,6 +1,6 @@
-# 💫 Hi, I'm Vihanga Wahundeniya
+## 💫 Hi, I'm
+# Vihanga Wahundeniya
 
-☕ Powered by merge conflicts and way too much caffeine.  
 🎓 Undergraduate specialized in Software Engineering @ SLIIT.  
 💻 Dabbling in Full Stack Development, learning with every bug and commit.  
 🎮 Experimenting with game development because why limit chaos to just web apps?
