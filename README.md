@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="flex">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViiHAA&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
@@ -41,15 +41,9 @@
 
 ---
 
-## 📈 Activity Graph
-
-[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=react-dark&hide_border=true)](https://github.com/ViiHAA)
-
----
-
 ## 🌟 Top Contributed Repositories
 
-<div align="center">
+<div align="left">
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=ViiHAA&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
@@ -89,9 +83,6 @@
 
 ### 💭 Quote of the Day
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 👀 Profile Views
-[![Profile Views](https://visitcount.itsvg.in/api?id=ViiHAA&icon=5&color=13)](https://visitcount.itsvg.in)
 
 **⭐ From [ViiHAA](https://github.com/ViiHAA) with ❤️**
 
