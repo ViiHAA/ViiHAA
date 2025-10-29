@@ -1,4 +1,4 @@
-# 💫 Hi, I am Vihanga Wahudeniya
+# 💫 Hi, I am Vihanga Wahundeniya
 ☕ Powered by merge conflicts and way too much caffeine.<br>🎓 Undergraduate specialized in Software Engineering @ SLIIT.<br>💻 Focused on MERN development, learning with every bug and commit<br>🎮 Experimenting with game development because why limit chaos to just web apps?<br>
 
 
