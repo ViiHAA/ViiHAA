@@ -3,7 +3,7 @@
 🎓 Undergraduate specialized in Software Engineering @ SLIIT.  
 💻 Dabbling in Full Stack Development, learning with every bug and commit.  
 🎮 Experimenting with game development because why limit chaos to just web apps?
-
+</div>
 ---
 
 ## 💻 Tech Stack
@@ -48,8 +48,6 @@
 ---
 
 ## 🏆 GitHub Achievements
-
-<div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=blue-green&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
 
