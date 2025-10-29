@@ -1,5 +1,4 @@
-## 💫 Hi, I'm
-# Vihanga Wahundeniya
+# <div align="center"> 💫 Hi, I'm, Vihanga Wahundeniya
 
 🎓 Undergraduate specialized in Software Engineering @ SLIIT.  
 💻 Dabbling in Full Stack Development, learning with every bug and commit.  
