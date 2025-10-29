@@ -1,4 +1,4 @@
-# 💫 Hi, I'm, Vihanga Wahundeniya
+![Header](./assets/github-header-banner.png)
 
 🎓 Undergraduate specialized in Software Engineering @ SLIIT.  
 💻 Dabbling in Full Stack Development, learning with every bug and commit.  
