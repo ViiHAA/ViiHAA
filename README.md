@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=blue-green&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=blue-green&no-frame=false&no-bg=true&margin-w=4&row=2&column=4)
 
 </div>
 
