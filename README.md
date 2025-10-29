@@ -5,9 +5,6 @@
 💻 Focused on MERN development, learning with every bug and commit.  
 🎮 Experimenting with game development because why limit chaos to just web apps?
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ViiHAA&label=Profile%20views&color=0e75b6&style=flat" alt="ViiHAA" /> </p>
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -52,7 +49,7 @@
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViiHAA&repo=REPO_NAME_1&theme=blue-green)](https://github.com/ViiHAA/REPO_NAME_1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViiHAA&repo=Veloo-Car-Rental-Application&theme=blue-green)](https://github.com/ViiHAA/Veloo-Car-Rental-Application)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViiHAA&repo=REPO_NAME_2&theme=blue-green)](https://github.com/ViiHAA/REPO_NAME_2)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViiHAA&repo=REPO_NAME_3&theme=blue-green)](https://github.com/ViiHAA/REPO_NAME_3)
