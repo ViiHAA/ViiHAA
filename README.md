@@ -23,13 +23,13 @@
 
 ## 📊 GitHub Analytics
 
-<div align="container">
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ViiHAA&theme=prussian&hide_border=false&card_width=1000)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViiHAA&theme=javascript-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViiHAA&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ViiHAA&theme=carbonfox&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViiHAA&theme=holi-theme&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViiHAA&theme=synthwave&layout=normal&card_width=1000)
 
 </div>
 
