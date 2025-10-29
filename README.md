@@ -19,6 +19,18 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+![GitHub Contribution Grid](https://ghchart.rshah.org/0d9488/ViiHAA)
+
+[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=react-dark&hide_border=true)](https://github.com/ViiHAA)
+
+</div>
+
+---
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
@@ -40,20 +52,6 @@
 <div align="center">
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=ViiHAA&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-## 🔥 Popular Repositories
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViiHAA&repo=Veloo-Car-Rental-Application&theme=blue-green)](https://github.com/ViiHAA/Veloo-Car-Rental-Application)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViiHAA&repo=REPO_NAME_2&theme=blue-green)](https://github.com/ViiHAA/REPO_NAME_2)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViiHAA&repo=REPO_NAME_3&theme=blue-green)](https://github.com/ViiHAA/REPO_NAME_3)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ViiHAA&repo=REPO_NAME_4&theme=blue-green)](https://github.com/ViiHAA/REPO_NAME_4)
 
 </div>
 
