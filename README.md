@@ -25,11 +25,11 @@
 
 <div align="container">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViiHAA&theme=juicyfresh&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViiHAA&theme=neon-blurange&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ViiHAA&theme=juicyfreshn&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ViiHAA&theme=carbonfox&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViiHAA&theme=juicyfresh&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViiHAA&theme=everforest-light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
