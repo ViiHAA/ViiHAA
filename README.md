@@ -23,13 +23,13 @@
 
 ## 📊 GitHub Analytics
 
-<div align="container">
+<div align="center">
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ViiHAA&theme=synthwave&fire=F22807&hide_border=false&card_width=1000)
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViiHAA&theme=javascript-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViiHAA&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ViiHAA&theme=carbonfox&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViiHAA&theme=holi-theme&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViiHAA&theme=synthwave&layout=normal&card_width=1000)
 
 </div>
 
@@ -39,15 +39,16 @@
 
 <div align="center">
 
-[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=juicyfresh&hide_border=true)](https://github.com/ViiHAA)
+[![Vihanga's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ViiHAA&theme=rogue&hide_border=true)](https://github.com/ViiHAA)
 
 </div>
 
 ---
 
 ## 🏆 GitHub Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=5&row=1&column=6)
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=discord&no-frame=false&no-bg=true&margin-w=5&row=1&column=6)
 
 </div>
 
