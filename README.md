@@ -5,7 +5,7 @@
 💻 Dabbling in Full Stack Development, learning with every bug and commit.  
 🎮 Experimenting with game development because why limit chaos to just web apps?
 
-## <img src="/assets/stackoverflow.gif" width="30"> Tech Stack
+## <img src="https://media.lordicon.com/icons/wired/flat/2567-logo-stack-overflow.gif" width="30"> Tech Stack
 
 ### <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="25" /> Frontend Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
@@ -18,7 +18,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://cdn.pixabay.com/animation/2023/03/19/15/09/15-09-56-389_512.gif" width="30"> GitHub Analytics
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 📈 Contribution Activity
+## <img src="https://cdn.pixabay.com/animation/2022/07/31/05/09/05-09-47-978_512.gif" width="30"> Contribution Activity 
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## <img src="https://cdn.pixabay.com/animation/2022/10/27/12/57/12-57-22-874_512.gif" width="30"> GitHub Achievements 
 <div align="center">
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=discord&no-frame=false&no-bg=true&margin-w=5&row=1&column=6)
@@ -52,7 +52,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://cdn.pixabay.com/animation/2023/04/12/11/47/11-47-05-272_256.gif" width="30"> Connect With Me 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vihanga-sandakel) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vwahundeniya@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9saVF6PrsK) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vihasandakel) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Vhite_Wanilla) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/vihangawahundeniya)
 
@@ -60,7 +60,7 @@
 
 <div align="left">
 
-## 🎵 Currently Vibing to...
+## <img src="https://i.pinimg.com/originals/de/58/4d/de584db3307b8631ddde6b432830dbcf.gif" width="30"> Currently Vibing to...
 <div align = "center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gfg09h6v7nu7kn2jyf95z2bpx&cover_image=true&theme=default&show_offline=false&background_color=240001&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=gfg09h6v7nu7kn2jyf95z2bpx&width=510&count=7)
