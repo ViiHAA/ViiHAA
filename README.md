@@ -60,11 +60,10 @@
 
 <div align="left">
 
-## 🎵 Listening to in Spotify
-### Currently Vibing to...
-<div align = "left">
+## 🎵 Currently Vibing to...
+<div align = "center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gfg09h6v7nu7kn2jyf95z2bpx&cover_image=true&theme=default&show_offline=false&background_color=240001&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=gfg09h6v7nu7kn2jyf95z2bpx&width=530&count=7)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gfg09h6v7nu7kn2jyf95z2bpx&cover_image=true&theme=default&show_offline=false&background_color=240001&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=gfg09h6v7nu7kn2jyf95z2bpx&width=510&count=7)
 
 
 
