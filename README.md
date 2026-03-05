@@ -43,10 +43,9 @@
 
 ---
 
-## <img src="https://cdn.pixabay.com/animation/2022/10/27/12/57/12-57-22-874_512.gif" width="30"> GitHub Achievements 
+## <img src="https://cdn.pixabay.com/animation/2022/10/27/12/57/12-57-22-874_512.gif" width="30"> Random Dev Quote
 <div align="center">
   
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
