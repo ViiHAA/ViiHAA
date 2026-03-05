@@ -48,6 +48,10 @@
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ViiHAA&theme=discord&no-frame=false&no-bg=true&margin-w=5&row=1&column=6)
 
+<p align="center">
+  <img width="220" src="https://github.com/user-attachments/assets/3b8a1c8b-afcd-49dc-ab18-a439d5c36a83">
+</p>
+
 </div>
 
 ---
