@@ -62,7 +62,9 @@
 ## <img src="https://i.pinimg.com/originals/de/58/4d/de584db3307b8631ddde6b432830dbcf.gif" width="30"> Currently Vibing to...
 <div align = "center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gfg09h6v7nu7kn2jyf95z2bpx&cover_image=true&theme=default&show_offline=false&background_color=240001&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) ![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=gfg09h6v7nu7kn2jyf95z2bpx&width=510&count=7)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gfg09h6v7nu7kn2jyf95z2bpx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gfg09h6v7nu7kn2jyf95z2bpx&unique={true|1|on|yes})
 
 
 
